@@ -1,0 +1,7 @@
+C:\Users\vulem\source\repos\Console_Jgsp\Console_Jgsp\bin\Debug\Console_Jgsp.exe.config
+C:\Users\vulem\source\repos\Console_Jgsp\Console_Jgsp\bin\Debug\Console_Jgsp.exe
+C:\Users\vulem\source\repos\Console_Jgsp\Console_Jgsp\bin\Debug\Console_Jgsp.pdb
+C:\Users\vulem\source\repos\Console_Jgsp\Console_Jgsp\obj\Debug\Console_Jgsp.csprojAssemblyReference.cache
+C:\Users\vulem\source\repos\Console_Jgsp\Console_Jgsp\obj\Debug\Console_Jgsp.csproj.CoreCompileInputs.cache
+C:\Users\vulem\source\repos\Console_Jgsp\Console_Jgsp\obj\Debug\Console_Jgsp.exe
+C:\Users\vulem\source\repos\Console_Jgsp\Console_Jgsp\obj\Debug\Console_Jgsp.pdb
